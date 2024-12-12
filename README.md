@@ -109,7 +109,7 @@ function takeCommand(message){
 }
 
 
-//style.css
+//Style.css
 @import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
 *{
     margin: 0;
